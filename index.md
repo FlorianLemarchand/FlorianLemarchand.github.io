@@ -30,6 +30,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 
 <div style="text-align: justify"> 
 This paper proposes an upgraded Electro Magnetic (EM) sidechannel attack that automatically reconstructs the intercepted data. A novel system is introduced, running in parallel with leakage signal interception and catching compromising data on the fly. Leveraging on deep learning and Character Recognition (CR) the proposed system retrieves more than 57% of characters present in intercepted signals regardless of signal type: analog or digital. The building of the learning database is detailed and the resulting data made publicly available. The solution is based on Software-Defined Radio (SDR) and Graphics Processing Unit (GPU) architectures. It can be easily deployed onto existing information systems to detect compromising data leakage that should be kept secret.
+
 </div>
 
 
