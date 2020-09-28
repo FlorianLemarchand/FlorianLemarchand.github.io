@@ -18,6 +18,7 @@ IEEE International Workshop on Multimedia Signal Processing (MMSP 2020)
 <div style="text-align: justify"> 
 Fully supervised deep-learning based denoisers are currently the most performing image denoising solutions. However, they require clean reference images. When the target noise is complex, eg composed of an unknown mixture of primary noises with unknown intensity, fully supervised solutions are limited by the difficulty to build a suited training set for the problem. This paper proposes a gradual denoising strategy that iteratively detects the dominating noise in an image, and removes it using a tailored denoiser. The method is shown to keep up with state of the art blind denoisers on mixture noises. Moreover, noise analysis is demonstrated to guide denoisers efficiently not only on noise type, but also on noise intensity. The method provides an insight on the nature of the encountered noise, and it makes it possible to extend an existing denoiser with new noise nature. This feature makes the method adaptive to varied denoising cases.
 </div>  
+<br />
 
 
 ## [_Electro-Magnetic Side-Channel Attack Through Learned Denoising and Classification_](https://arxiv.org/pdf/1910.07201.pdf)
@@ -58,3 +59,4 @@ European Cyber Week - C&ESAR - IA & Défense (ECW 2020)
 <div style="text-align: justify"> 
 Cet article propose une attaque par canal auxiliaireélectro-magnétique capable de reconstruire automatiquement un signal de type image. Le système proposé permet l'extraction de données compromet-tantes embarquées dans le signal intercepté. Basé sur l'apprentissage pro-fond, le système est capable d'extraire sur le jeu de test proposé plus de 57% de l'information présente dans le signal intercepté, et ce pour différents type de signal vidéo qu'ils soient analogique ou numérique. Une extension du système est proposée ayant pour but l'audit d'un système d'information grâceà un mécanisme automatique d'alarme en cas de compromission du système d'information visé. Basée sur une architecture hétérogène radio-logicielle et processeur graphique, la solution est déployable facilement dans un système d'information existant manipu-lant de l'information devant rester secrète.
 </div>  
+<br />
