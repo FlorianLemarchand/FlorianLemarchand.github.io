@@ -2,13 +2,12 @@
 layout: default
 ---
 
-## Short Bio
 
-intro
+This is a bio.
 
-## Publications
+# Publications
 
-### [_oiseBreaker: Gradual Image Denoising Guided by Noise Analysis_](https://arxiv.org/pdf/2002.07487.pdf)
+### [_NoiseBreaker: Gradual Image Denoising Guided by Noise Analysis_](https://arxiv.org/pdf/2002.07487.pdf)
 
 
 __F. Lemarchand__, T. Findeli, E. Nogues, M. Pelcat MMSP 2020
