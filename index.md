@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-This is a bio.
+I am a PhD student at IETR / INSA Rennes. My PhD started in October 2018 and I work on learning-based image restoration.
+ 
+The ultimate goal of this work is to push further the limits of noisy signal interpretation. A particular motivation is to interpret interception images issued from electro-magnetic side channel attacks. 
 
 # Publications
 
