@@ -1,0 +1,18 @@
+title: Florian Lemarchand
+logo: /assets/img/profile_picture.png
+description: PhD student at IETR / INSA Rennes
+interest: I work on deep-learning image restoration.
+show_downloads: false
+mail: mailto:florian.lemarchand@insa-rennes.fr
+scholar: https://scholar.google.com/citations?user=JMErHxAAAAAJ&hl=fr
+linkedin: https://www.linkedin.com/in/florian-lemarchand-489153138/
+theme: jekyll-theme-minimal
+
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: false
