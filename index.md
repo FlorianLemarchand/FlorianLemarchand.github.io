@@ -31,6 +31,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 <div style="text-align: justify"> 
 This paper proposes an upgraded Electro Magnetic (EM) sidechannel attack that automatically reconstructs the intercepted data. A novel system is introduced, running in parallel with leakage signal interception and catching compromising data on the fly. Leveraging on deep learning and Character Recognition (CR) the proposed system retrieves more than 57% of characters present in intercepted signals regardless of signal type: analog or digital. The building of the learning database is detailed and the resulting data made publicly available. The solution is based on Software-Defined Radio (SDR) and Graphics Processing Unit (GPU) architectures. It can be easily deployed onto existing information systems to detect compromising data leakage that should be kept secret.
 </div>  
+<br />
 
 
 ## [_OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers_](https://arxiv.org/pdf/1910.08328.pdf)
@@ -42,9 +43,9 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 [Paper](https://arxiv.org/pdf/1910.08328.pdf) 
 
 <div style="text-align: justify"> 
-Image denoising has recently taken a leap forward due to machine learning. However, image denoisers, both expert-based and learning-based, are mostly tested on well-behaved generated noises (usually Gaussian) rather than on real-life noises, making performance comparisons difficult in real-world conditions. This is especially true for learning-based denoisers which performance depends on training data. Hence, choosing which method to use for a specific denoising problem is difficult.This paper proposes a comparative study of existing denoisers, as well as an extensible open tool that makes it possible to reproduce and extend the study. MWCNN is shown to outperform other methods when trained for a real-world image interception noise, and additionally is the second least compute hungry of the tested methods. To evaluate the robustness of conclusions, three test sets are compared. A Kendall's Tau correlation of only 60% is obtained on methods ranking between noise types, demonstrating the need for a benchmarking tool.<br/>
+Image denoising has recently taken a leap forward due to machine learning. However, image denoisers, both expert-based and learning-based, are mostly tested on well-behaved generated noises (usually Gaussian) rather than on real-life noises, making performance comparisons difficult in real-world conditions. This is especially true for learning-based denoisers which performance depends on training data. Hence, choosing which method to use for a specific denoising problem is difficult.This paper proposes a comparative study of existing denoisers, as well as an extensible open tool that makes it possible to reproduce and extend the study. MWCNN is shown to outperform other methods when trained for a real-world image interception noise, and additionally is the second least compute hungry of the tested methods. To evaluate the robustness of conclusions, three test sets are compared. A Kendall's Tau correlation of only 60% is obtained on methods ranking between noise types, demonstrating the need for a benchmarking tool.
 </div>  
-
+<br />
 
 ## [_ToxicIA: Apprentissage Profond Appliquéà l'Analyse des Signaux Parasites Compromettants_](https://hal.archives-ouvertes.fr/hal-02378314/file/Lemarchand_IA%26D_camera_ready.pdf)
 
