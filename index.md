@@ -25,7 +25,7 @@ Fully supervised deep-learning based denoisers are currently the most performing
 
 ## [_Electro-Magnetic Side-Channel Attack Through Learned Denoising and Classification_](https://arxiv.org/pdf/1910.07201.pdf)
 
-__F. Lemarchand__, C. Marlin, F. Montreuil, [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
+__F. Lemarchand__, [C. Marlin](https://www.linkedin.com/in/cyril-marlin-094a381/), F. Montreuil, [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)
 
