@@ -3,15 +3,15 @@ layout: default
 ---
 
 
-I am a PhD student at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My PhD started in October 2018 and I work on learning-based image restoration.
+I am a PhD student at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My PhD directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/) started in October 2018. My main interest is on learning-based image restoration.
 
-The ultimate goal of this work is to push further the limits of noisy signal interpretation. A particular motivation is to interpret interception images issued from electro-magnetic side channel attacks. 
+The ultimate goal of my work is to push further the limits of noisy signal interpretation. A particular motivation is to interpret interception images issued from electro-magnetic side channel attacks. 
 
 # Publications
 
 ## [_NoiseBreaker: Gradual Image Denoising Guided by Noise Analysis_](https://arxiv.org/pdf/2002.07487.pdf)
 
-__F. Lemarchand__, T. Findeli, E. Nogues, M. Pelcat 
+__F. Lemarchand__, T. Findeli, [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
 
 IEEE International Workshop on Multimedia Signal Processing (MMSP 2020)
 
@@ -25,7 +25,7 @@ Fully supervised deep-learning based denoisers are currently the most performing
 
 ## [_Electro-Magnetic Side-Channel Attack Through Learned Denoising and Classification_](https://arxiv.org/pdf/1910.07201.pdf)
 
-__F. Lemarchand__, C. Marlin, F. Montreuil, E. Nogues, M. Pelcat 
+__F. Lemarchand__, C. Marlin, F. Montreuil, [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)
 
@@ -39,7 +39,7 @@ This paper proposes an upgraded Electro Magnetic (EM) sidechannel attack that au
 
 ## [_OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers_](https://arxiv.org/pdf/1910.08328.pdf)
 
-__F. Lemarchand__, E. Fernandes Montesuma, E. Nogues, M. Pelcat 
+__F. Lemarchand__, [E. Fernandes Montesuma](https://www.linkedin.com/in/eddardd/), [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)
 
@@ -52,7 +52,7 @@ Image denoising has recently taken a leap forward due to machine learning. Howev
 
 ## [_ToxicIA: Apprentissage Profond Appliquéà l'Analyse des Signaux Parasites Compromettants_](https://hal.archives-ouvertes.fr/hal-02378314/file/Lemarchand_IA%26D_camera_ready.pdf)
 
-__F. Lemarchand__, C. Marlin, F. Montreuil, E. Nogues, M. Pelcat 
+__F. Lemarchand__, [C. Marlin](https://www.linkedin.com/in/cyril-marlin-094a381/), F. Montreuil, [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
 
 European Cyber Week - C&ESAR - IA & Défense (ECW 2020)
 
