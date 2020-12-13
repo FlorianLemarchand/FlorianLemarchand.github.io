@@ -7,6 +7,12 @@ I am a PhD student at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https
 
 The ultimate goal of my work is to push further the limits of noisy signal interpretation. A particular motivation is to interpret interception images issued from electro-magnetic side channel attacks. 
 
+# Master Internship Proposal
+
+We are seeking for candidates for an internship titled *Implementation of Deep-Learning Based Restoration and Interpretation Methods for Electro-Magnetic Intercepted Images*. Do not hesitate to share this proposal and contact me if interested. 
+
+[Proposal](ressources/pdfs/PFE_PROPOSAL_2021_v2.pdf)
+
 # Publications
 
 ## [_NoiseBreaker: Gradual Image Denoising Guided by Noise Analysis_](https://arxiv.org/pdf/2002.07487.pdf)
@@ -50,7 +56,7 @@ Image denoising has recently taken a leap forward due to machine learning. Howev
 </div>  
 <br />
 
-## [_ToxicIA: Apprentissage Profond Appliquéà l'Analyse des Signaux Parasites Compromettants_](https://hal.archives-ouvertes.fr/hal-02378314/file/Lemarchand_IA%26D_camera_ready.pdf)
+## [_ToxicIA: Apprentissage Profond Appliqué à l'Analyse des Signaux Parasites Compromettants_](https://hal.archives-ouvertes.fr/hal-02378314/file/Lemarchand_IA%26D_camera_ready.pdf)
 
 __F. Lemarchand__, [C. Marlin](https://www.linkedin.com/in/cyril-marlin-094a381/), F. Montreuil, [E. Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/), [M. Pelcat](http://mpelcat.org/) 
 
