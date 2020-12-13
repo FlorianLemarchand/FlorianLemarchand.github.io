@@ -9,7 +9,7 @@ The ultimate goal of my work is to push further the limits of noisy signal inter
 
 # Master Internship Proposal
 
-We are seeking for candidates for an internship titled *Implementation of Deep-Learning Based Restoration and Interpretation Methods for Electro-Magnetic Intercepted Images*. Do not hesitate to share this proposal and contact me if interested. 
+We are seeking for candidates for an internship titled __*Implementation of Deep-Learning Based Restoration and Interpretation Methods for Electro-Magnetic Intercepted Images*__. Do not hesitate to share this proposal and contact me if interested. 
 
 [Proposal](ressources/pdfs/PFE_PROPOSAL_2021_v2.pdf)
 
