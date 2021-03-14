@@ -18,9 +18,13 @@ With the objective to collectively develop a better general understanding of Art
 <div style="text-align: justify">
 
 If you would be interested in participating, feel free to contact me for further information. The group usually exchanges in french but a switch to english is possible.
-Schedule of future meetings as well as slides and videos of pasts sessions are available by following that [link](https://cutt.ly/VaaderReadingGroup). 
+Schedule of future meetings as well as slides and videos of pasts sessions are available by following that link: 
 
  </div>
+
+[HackMD link](https://cutt.ly/VaaderReadingGroup)
+
+
 <br />
 
 # Publications
