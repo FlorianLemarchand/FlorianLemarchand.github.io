@@ -7,11 +7,6 @@ I am a PhD student at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https
 
 The ultimate goal of my work is to push further the limits of noisy signal interpretation. A particular motivation is to interpret interception images issued from electro-magnetic side channel attacks. 
 
-# Master Internship Proposal
-
-We are seeking for candidates for an internship titled __*Implementation of Deep-Learning Based Restoration and Interpretation Methods for Electro-Magnetic Intercepted Images*__. Do not hesitate to share this proposal and contact me if interested. 
-
-[Proposal](ressources/pdfs/PFE_Proposal_2021.pdf)
 
 # Publications
 
