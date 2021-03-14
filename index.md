@@ -10,10 +10,13 @@ The ultimate goal of my work is to push further the limits of noisy signal inter
 # "Image and AI" Reading Group
 
 <div style="text-align: justify">
+
 With the objective to collectively develop a better general understanding of Artificial Intelligence applied to image processing, I proposed to my current team the creation of a lecture group on that topic. The group meets every two weeks. Each session lasts around one hour and consists of a member presenting a concept or a paper followed by discussions. 
+
 </div>
 
 <div style="text-align: justify">
+	
 If you would be interested in participating, feel free to contact me for further information. The group usually exchanges in french but a switch to english is possible.
 Schedule of future meetings as well as slides and videos of pasts sessions are available by following [that link](https://hackmd.io/@flemarch/H1QtmJiCD). 
  </div>
