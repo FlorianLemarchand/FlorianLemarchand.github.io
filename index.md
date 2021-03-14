@@ -16,9 +16,10 @@ With the objective to collectively develop a better general understanding of Art
 </div>
 
 <div style="text-align: justify">
-	
+
 If you would be interested in participating, feel free to contact me for further information. The group usually exchanges in french but a switch to english is possible.
 Schedule of future meetings as well as slides and videos of pasts sessions are available by following [that link](https://hackmd.io/@flemarch/H1QtmJiCD). 
+
  </div>
 <br />
 
