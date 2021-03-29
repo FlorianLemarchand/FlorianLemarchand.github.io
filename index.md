@@ -43,7 +43,7 @@ The first practical work (PW1) introduces some Python manipulations for image pr
 
 <div style="text-align: justify">
 
-PW2 unrolls the prototyping of a learning-based denoiser for Additive White Gaussian Noise (AWGN), namely DnCNN. Once the entire pipeline experienced, the denoiser is adapted to deal with eavesdropped images. Performance comparison is done with basic filters used in PW1. 
+PW2 unrolls the prototyping of a learning-based denoiser for Additive White Gaussian Noise (AWGN), namely DnCNN. PyTorch framework is used. Pre-trained models are given to avoid hardware issues and long waiting. Once the entire pipeline experienced, the denoiser is adapted to deal with eavesdropped images. Performance comparison is done with basic filters used in PW1. 
 
  </div>
 
