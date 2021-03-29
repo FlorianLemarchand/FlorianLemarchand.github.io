@@ -27,6 +27,29 @@ Schedule of future meetings as well as slides and videos of pasts sessions are a
 
 <br />
 
+# "Towards Eavesdropped Image Denoising" Course
+
+<div style="text-align: justify">
+
+This course is an introduction to image denoising with an application to eavesdropped images restoration. It is made for beginners in image processing. The course has been designed for a 2 hours lecture and 2 practical work sessions of 1 hour and 45 minutes each.
+
+The first practical work (PW1) introduces some Python manipulations for image processing and presents basic filterings. At the end of PW1, BM3D is used as an expert-based denoising method. 
+
+PW2 unrolls the prototyping of a learning-based denoiser for Additive White Gaussian Noise (AWGN), namely DnCNN. Once the entire pipeline experienced, the denoiser is adapted to deal with eavesdropped images. Performance comparison is done with basic filters used in PW1. 
+
+Do not hesitate to contact me if you would like to discuss the content of this course.  
+
+[PWs GitHub link](https://github.com/FlorianLemarchand/formation_eavesdropping_denoising)
+
+[Lecture Slides](ressources/pdfs/2020-06-11-Towards_Eavesdropped_image_denoising.pdf)
+
+
+</div>
+
+
+
+<br />
+
 # Publications
 
 ## [_NoiseBreaker: Gradual Image Denoising Guided by Noise Analysis_](https://arxiv.org/pdf/2002.07487.pdf)
