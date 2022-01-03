@@ -4,7 +4,7 @@ layout: default
 
 I am currently working at CEA-Leti in Grenoble as Engineer-Researcher. I develop learning-based algorithms for biology as part of the [H2020 REVEAL project](https://reveal-h2020.eu/).
 
-I pursued my PhD at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My defended my PhD on the 29th of September 2021, it was directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/). The manuscript entitled "Deep-learning Interpretation of Eavesdropped Images" is available following [this link](https://tel.archives-ouvertes.fr/tel-03475345).
+I pursued my PhD at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My PhD defended on the 29th of September 2021 was directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/). The manuscript entitled "Deep-learning Interpretation of Eavesdropped Images" is available following [this link](https://tel.archives-ouvertes.fr/tel-03475345).
 
 
 # "Image and AI" Reading Group
