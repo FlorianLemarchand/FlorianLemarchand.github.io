@@ -17,7 +17,7 @@ With the objective to collectively develop a better general understanding of Art
 
 <div style="text-align: justify">
 
-Nicolas Beuve PhD student in the Vaader team is now in charge of the animation and rehosted the website [here](https://beuve.github.io/vaader-air/). Do not hesitate to contact him if you wish to participate.
+Nicolas Beuve PhD student in the Vaader team is now in charge of the animation and keeps a [website updated here](https://beuve.github.io/vaader-air/). Do not hesitate to contact him if you wish to participate.
 
  </div>
 
