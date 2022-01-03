@@ -2,27 +2,24 @@
 layout: default
 ---
 
+I am currently working at CEA-Leti in Grenoble as Engineer-Researcher. I develop learning-based algorithms for biology as part of the [H2020 REVEAL project](https://reveal-h2020.eu/).
 
-I am a PhD student at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My PhD directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/) started in October 2018. My main interest is on learning-based image restoration.
+I pursued my PhD at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My defended my PhD on the 29th of September 2021, it was directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/). The manuscript entitled "Deep-learning Interpretation of Eavesdropped Images" is available following [this link](https://tel.archives-ouvertes.fr/tel-03475345).
 
-The ultimate goal of my work is to push further the limits of noisy signal interpretation. A particular motivation is to interpret interception images issued from electro-magnetic side channel attacks. 
 
 # "Image and AI" Reading Group
 
 <div style="text-align: justify">
 
-With the objective to collectively develop a better general understanding of Artificial Intelligence applied to image processing, I proposed to my current team the creation of a lecture group on that topic. The group meets every two weeks. Each session lasts around one hour and consists of a member presenting a concept or a paper followed by discussions. 
+With the objective to collectively develop a better general understanding of Artificial Intelligence applied to image processing, I proposed to my former team the creation of a lecture group on that topic. The group at that time met every two weeks. Each session lasts around one hour and consists of a member presenting a concept or a paper followed by discussions. 
 
 </div>
 
 <div style="text-align: justify">
 
-If you would be interested in participating, feel free to contact me for further information. The group usually exchanges in french but a switch to english is possible.
-Schedule of future meetings as well as slides and videos of pasts sessions are available by following that link: 
+Nicolas Beuve PhD student in the Vaader team is now in charge of the animation and rehosted the website [here](https://beuve.github.io/vaader-air/). Do not hesitate to contact him if you wish to participate.
 
  </div>
-
-[HackMD link](https://cutt.ly/VaaderReadingGroup)
 
 
 <br />
