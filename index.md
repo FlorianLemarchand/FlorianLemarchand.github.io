@@ -4,22 +4,16 @@ layout: default
 
 I am currently working at CEA-Leti in Grenoble as Engineer-Researcher. I develop learning-based algorithms for biology as part of the [H2020 REVEAL project](https://reveal-h2020.eu/).
 
-I pursued my PhD at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My PhD defended on the 29th of September 2021 was directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/). The manuscript entitled "Deep-learning Interpretation of Eavesdropped Images" is available following [this link](https://tel.archives-ouvertes.fr/tel-03475345).
+I pursued my PhD at [IETR](https://www.ietr.fr/?lang=en) / [INSA Rennes](https://www.insa-rennes.fr/en.html). My PhD, defended on the 29th of September 2021, was directed by [Maxime Pelcat](http://mpelcat.org/) and advised by [Erwan Nogues](https://www.linkedin.com/in/erwan-nogues-88090a5/). The manuscript entitled "Deep-learning Interpretation of Eavesdropped Images" is available following [this link](https://tel.archives-ouvertes.fr/tel-03475345).
 
 
 # "Image and AI" Reading Group
 
-<div style="text-align: justify">
 
 With the objective to collectively develop a better general understanding of Artificial Intelligence applied to image processing, I proposed to my former team the creation of a lecture group on that topic. The group at that time met every two weeks. Each session lasts around one hour and consists of a member presenting a concept or a paper followed by discussions. 
 
-</div>
-
-<div style="text-align: justify">
 
 Nicolas Beuve PhD student in the Vaader team is now in charge of the animation and keeps a [website updated here](https://beuve.github.io/vaader-air/). Do not hesitate to contact him if you wish to participate.
-
- </div>
 
 
 <br />
